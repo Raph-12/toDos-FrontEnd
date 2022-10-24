@@ -7,7 +7,7 @@ import {
 } from "react-icons/ri";
 import { TiEdit } from "react-icons/ti";
 
-const Todo = ({
+const Todo =  ({
   todos,
   completeTodo,
   removeTodo,
